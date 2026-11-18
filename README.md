@@ -47,6 +47,19 @@ with the source CSVs.
 
 `CMMC 2.0` · `NIST SP 800-171` · `Azure Policy` · `Python` · `DoD / CUI`
 
+### 🔑 [nhi-security-lab](https://github.com/Oreedtech/nhi-security-lab)
+[![verify](https://github.com/Oreedtech/nhi-security-lab/actions/workflows/verify.yml/badge.svg)](https://github.com/Oreedtech/nhi-security-lab/actions/workflows/verify.yml)
+
+Workload identity governance in Azure, built with Terraform and verified in CI.
+
+`Terraform` · `Checkov` · `Managed Identity` · `KQL` · `GitHub Actions`
+
+### 📑 [ai-governance-starter-kit](https://github.com/Oreedtech/ai-governance-starter-kit)
+
+A complete, simulated AI governance engagement, from "what AI are we even using?" to a 90-day remediation plan, plus a Copilot audit procedure for GCC High and a connector/MCP security guide.
+
+`NIST AI RMF` · `ISO/IEC 42001` · `CMMC` · `Microsoft 365`
+
 ---
 
 ## Also here
